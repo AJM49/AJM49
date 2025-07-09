@@ -1,4 +1,4 @@
-# Hi, I'm Albert Murph 👋
+# Hi, I'm Albert 👋
 
 I'm a Full Stack Developer based in NYC with a passion for turning ideas into functional and intuitive web applications...
 <!---
